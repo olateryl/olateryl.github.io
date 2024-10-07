@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olateryl.github.io/sitemap.html.gz
+Sitemap: https://olateryl.github.io/app/sitemap.html.gz
+Sitemap: https://olateryl.github.io/assets/sitemap.html.gz
+Sitemap: https://olateryl.github.io/css/sitemap.html.gz
+Sitemap: https://olateryl.github.io/data/sitemap.html.gz
+Sitemap: https://olateryl.github.io/includes/sitemap.html.gz
+Sitemap: https://olateryl.github.io/item/sitemap.html.gz
+Sitemap: https://olateryl.github.io/src/sitemap.html.gz
